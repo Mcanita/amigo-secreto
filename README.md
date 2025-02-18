@@ -24,7 +24,7 @@ El proyecto consta de tres archivos principales:
 🌐 Ver el proyecto en vivo
 Accede a la versión en vivo del proyecto en GitHub Pages:
 ## Ver en vivo
-[Ver en vivo]( https://mcanita.github.io/amigo-secreto/)
+[Amigo Secreto]( https://mcanita.github.io/amigo-secreto/)
 
 
 
@@ -39,7 +39,7 @@ Accede a la versión en vivo del proyecto en GitHub Pages:
 ## 🚀 Cómo usar este repositorio
 Clona el repositorio:
 
-git clone https://github.com/Mcanita/Curso-DesarrolloWeb.git
+git clone https://github.com/Mcanita/amigo-secreto
 Ve a la carpeta de la clase o proyecto que quieras explorar.
 
 Abre el archivo index.html en tu navegador.
